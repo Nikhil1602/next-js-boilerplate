@@ -11,8 +11,10 @@
 - Font - Poppins
 - Shadcn/UI - Neutral
 
-Commands to run the app
+### Commands to run the app
 
 ```bash
-git clone 
+git clone https://github.com/Nikhil1602/next-js-boilerplate.git
+cd next-js-boilerplate
+npm run dev
 ```
